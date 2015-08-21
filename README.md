@@ -30,6 +30,8 @@ or
 `https://github.com/babel/babel/blob/master/packages/babel/src/api/register/node.js`
 
 Also see `https://github.com/kanaka/cljs-bootstrap`
+HN discussion: `https://news.ycombinator.com/item?id=9983204`
+`http://www.matthewstump.com/misc/2012/06/04/writing-nodejs-modules-in-clojurescript/`
 
 License: MIT
 
